@@ -21,7 +21,6 @@ A quoi sert GalackCovid19:
 * Télécharger l'open source
 * Cliquez allez dans le fichier `config.json` et mettez votre préfix
 * Ensuite ouvrez le fichier `index.js` et toute à la fin mettez votre token
-
 * Après il vous reste plus cas le lancer via CMD `node index.js`
 
 ## Liens
