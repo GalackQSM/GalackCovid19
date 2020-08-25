@@ -1,0 +1,23 @@
+{
+  "name": "GalackCovid19",
+  "version": "1.0.0",
+  "description": "Un bot qui fournit des informations mises à jour quotidiennement sur divers chiffres liés au COVID-19.",
+  "main": "index.js",
+  "engines": {
+    "node": "13.7.0",
+    "npm": "6.13.6"
+  },
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "author": "GalackQSM#7926",
+  "license": "none",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "chalk": "^4.1.0",
+    "chart.js": "^2.9.3",
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0",
+    "novelcovid": "^1.2.7"
+  }
+}
